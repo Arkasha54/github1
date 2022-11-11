@@ -1,5 +1,5 @@
 def superfunction():
-    print('ПрИвЕт ПуТоН брааат')
+    print('ПрИвЕт ПуТоН ара брааат')
 def main():
     print('Первый принт')
     print('Второй принт')

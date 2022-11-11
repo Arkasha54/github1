@@ -1,3 +1,5 @@
+def superfunction():
+    print('ПрИвЕт ПуТоН брааат')
 def main():
     print('Первый принт')
     print('Второй принт')
